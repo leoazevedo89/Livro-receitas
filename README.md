@@ -1,6 +1,7 @@
 # Livro de receitas  
 
-### Ola bem vindo ao livro receitas
+### Olá bem vindo ao livro receitas
 
 - Pizza
 - Strogonoff
+- Bolo de Cenoura
